@@ -2,7 +2,12 @@
 
 # 👋 Hi there, I'm Chumki Adhikari
 
-🔍 **QA Engineer | Automation Tester | API Specialist**
+🚀 Passionate QA Engineer | Automation Enthusiast | API Testing Specialist
+🔍 I break things professionally so users don’t have to 😉
+
+With a strong foundation in manual and automated testing, I build robust frameworks and ensure flawless application quality. I specialize in API automation (Postman, Swagger, RestAssured), Selenium, TestNG, Cucumber, and CI/CD integration.
+
+💡 Always curious | 💬 Open to collaboration | 🎯 Focused on delivering quality with efficiency
 
 ---
 
