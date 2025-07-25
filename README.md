@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/AdhikariChumki/AdhikariChumki/blob/main/BW.jpeg" width="200" height="200" alt="Chumki Adhikari" />
-</p>
+
 
 # 👋 Hi there, I'm Chumki Adhikari
 
