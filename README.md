@@ -1,46 +1,44 @@
-# 👋 Hello, I'm **Chumki Adhikari**
+<p align="center">
+  <img src="https://github.com/AdhikariChumki/AdhikariChumki/blob/main/BW.jpeg" width="200" height="200" alt="Chumki Adhikari" />
+</p>
 
-🎯 **QA Engineer | Automation Tester | API Specialist**
+# 👋 Hi there, I'm Chumki Adhikari
 
-💬 Passionate about building scalable automation frameworks, improving software quality, and solving real-world testing challenges.
-
----
-
-## 🛠️ Tech Toolbox
-
-- 💻 **Languages:** Java, SQL  
-- 🧪 **Testing Types:** Manual Testing, API Testing (Postman, Swagger, RestAssured), Mobile Testing (Appium)  
-- 🤖 **Automation Tools:** Selenium WebDriver, Appium, Cucumber, TestNG, JUnit, Maven  
-- 📈 **Reporting Tools:** Extent Reports, TestNG Reports  
-- ⚙️ **CI/CD & DevOps:** Jenkins, GitHub Actions  
-- 📋 **Project Tools:** JIRA, Git, Excel  
+🔍 **QA Engineer | Automation Tester | API Specialist**
 
 ---
 
-## 🚀 Featured Projects
+## 🔧 Skills & Technologies
 
-### 🔹 [Selenium Java Framework](https://github.com/AdhikariChumki/UI_Automation_Framework)
-📌 A robust BDD-based framework using Java, Selenium WebDriver, JUnit, Excel Data-Driven Testing, and Extent Reports.
-
-### 🔹 [REST Assured API Framework](https://github.com/AdhikariChumki/RestAssured_Framework)
-📌 Cucumber + TestNG-based automation framework to test REST APIs with token generation, reusable utility classes, and reporting.
-
-### 🔹 [Appium Mobile Framework](https://github.com/AdhikariChumki/Appium_Automation_Framework)
-📌 Hybrid automation framework built with Java, Appium, TestNG, Excel integration, and Extent Reporting for Android app testing.
+- 💻 Languages: Java, SQL  
+- 🧪 Testing: Manual Testing, API Testing (Postman, Swagger, RestAssured)  
+- 🤖 Automation: Selenium WebDriver, Appium, Cucumber, TestNG, Maven  
+- 📊 Reporting: Extent Reports, TestNG Report  
+- 💡 CI/CD: Jenkins, GitHub Actions  
+- 🗃️ Tools: JIRA, Git, Excel, SQL  
 
 ---
 
-## 📊 GitHub Stats
+## 🗂️ My Top Projects
+
+### ✅ [Selenium Java Framework](https://github.com/AdhikariChumki/UI_Automation_Framework)  
+Framework using BDD, Java, Selenium, JUnit, Data-Driven Testing with Excel, and Extent Report integration.
+
+### ✅ [REST Assured Framework](https://github.com/AdhikariChumki/RestAssured_Framework)  
+A Cucumber + TestNG-based automation framework to test REST APIs with token generation and reusable utilities.
+
+### ✅ [Appium Java Framework](https://github.com/AdhikariChumki/Appium_Automation_Framework)  
+Hybrid framework using Java, Appium, TestNG, Data-Driven Testing with Excel, and Extent Report integration.
+
+---
+
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdhikariChumki&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📫 Let’s Connect!
+## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chumki-adhikari/)
-- 📧 Email: [chumkia17@gmail.com](mailto:chumkia17@gmail.com)
-
----
-
-⭐ *Thanks for visiting my profile! I'm always open to collaboration, freelance projects, or QA discussions.*
+- 📧 Email: chumkia17@gmail.com
